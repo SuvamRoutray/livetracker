@@ -9,7 +9,7 @@ section {
 }
 
 h1 {
-    animation: blink 4s linear infinite;
+    animation: blink 5s linear infinite;
 }
 
 @keyframes blink {
